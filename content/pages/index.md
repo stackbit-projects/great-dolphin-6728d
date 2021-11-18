@@ -304,7 +304,7 @@ sections:
           isRequired: false
           width: full
           type: EmailFormControl
-      submitLabel: Sign Up
+      submitLabel: SignUP
     styles:
       self:
         height: auto
