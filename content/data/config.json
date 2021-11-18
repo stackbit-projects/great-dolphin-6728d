@@ -23,7 +23,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Sign up",
+                "label": "sign up",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
