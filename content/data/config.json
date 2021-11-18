@@ -44,17 +44,6 @@
                 "type": "Link"
             },
             {
-                "label": "Learn more",
-                "altText": "Learn more",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowLeft",
-                "iconPosition": "right",
-                "style": "primary",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
                 "type": "Button",
                 "label": "sign up",
                 "url": "/",
