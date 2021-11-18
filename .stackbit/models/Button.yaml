@@ -55,8 +55,6 @@ fields:
     controlType: button-group
     label: Style
     options:
-      - label: Link
-        value: link
       - label: Primary
         value: primary
       - label: Secondary
